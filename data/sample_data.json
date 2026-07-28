@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "9876543210",
+      "preferred_language": "English"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "9123456780",
+      "preferred_language": "English"
+    }
+  ]
+}

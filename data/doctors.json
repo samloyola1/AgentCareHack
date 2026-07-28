@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Dr. Alice Johnson",
+        "department": "Cardiology",
+        "specialization": "Cardiologist"
+    },
+    {
+        "name": "Dr. Michael Lee",
+        "department": "Neurology",
+        "specialization": "Neurologist"
+    },
+    {
+        "name": "Dr. Sarah Patel",
+        "department": "Orthopedics",
+        "specialization": "Orthopedic Surgeon"
+    },
+    {
+        "name": "Dr. David Kim",
+        "department": "Dermatology",
+        "specialization": "Dermatologist"
+    },
+    {
+        "name": "Dr. Emily Brown",
+        "department": "Pediatrics",
+        "specialization": "Pediatrician"
+    }
+]

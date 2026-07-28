@@ -1,0 +1,59 @@
+# ============================
+# AI Framework
+# ============================
+crewai>=0.193.0
+crewai-tools>=0.60.0
+litellm>=1.74.0
+
+# ============================
+# LLM Providers
+# ============================
+openai>=1.99.0
+mistralai>=1.9.0
+groq>=0.1.0
+
+# ============================
+# FastAPI Backend
+# ============================
+fastapi>=0.116.0
+uvicorn[standard]>=0.35.0
+
+# ============================
+# Database
+# ============================
+sqlalchemy>=2.0.40
+alembic>=1.16.0
+
+# ============================
+# Data Validation
+# ============================
+pydantic>=2.11.0
+pydantic-settings>=2.10.0
+email-validator>=2.2.0
+
+# ============================
+# Authentication & Security
+# ============================
+python-jose[cryptography]>=3.5.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-multipart>=0.0.20
+
+# ============================
+# Frontend
+# ============================
+streamlit>=1.47.0
+
+# ============================
+# HTTP & Utilities
+# ============================
+requests>=2.32.0
+httpx>=0.28.0
+python-dotenv>=1.1.0
+aiofiles>=24.1.0
+
+# ============================
+# Production / Deployment
+# ============================
+gunicorn>=23.0.0
+psycopg2-binary>=2.9.10

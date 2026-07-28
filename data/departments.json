@@ -1,0 +1,30 @@
+[
+    {
+        "name": "General Medicine",
+        "description": "General consultations"
+    },
+    {
+        "name": "Cardiology",
+        "description": "Heart and cardiovascular care"
+    },
+    {
+        "name": "Neurology",
+        "description": "Brain and nervous system"
+    },
+    {
+        "name": "Orthopedics",
+        "description": "Bones and joints"
+    },
+    {
+        "name": "Dermatology",
+        "description": "Skin care"
+    },
+    {
+        "name": "ENT",
+        "description": "Ear, Nose and Throat"
+    },
+    {
+        "name": "Pediatrics",
+        "description": "Child healthcare"
+    }
+]
